@@ -12,13 +12,13 @@
         title="prettier-plugin-markdown-html"
         ><picture
             ><source
-                srcset="assets/link-prettier-plugin-markdown-html-dark-scheme@3x.png"
+                srcset=".github/assets/link-prettier-plugin-markdown-html-dark-scheme@3x.png"
                 media="(prefers-color-scheme: dark)" />
             <source
-                srcset="assets/link-prettier-plugin-markdown-html-light-scheme@3x.png"
+                srcset=".github/assets/link-prettier-plugin-markdown-html-light-scheme@3x.png"
                 media="(prefers-color-scheme: light)" />
             <img
-                src="assets/link-prettier-plugin-markdown-html-light-scheme@3x.png"
+                src=".github/assets/link-prettier-plugin-markdown-html-light-scheme@3x.png"
                 width="90"
                 alt="" /></picture
     ></a>
@@ -27,13 +27,13 @@
         title="prettier-plugin-yaml"
         ><picture
             ><source
-                srcset="assets/link-prettier-plugin-yaml-dark-scheme@3x.png"
+                srcset=".github/assets/link-prettier-plugin-yaml-dark-scheme@3x.png"
                 media="(prefers-color-scheme: dark)" />
             <source
-                srcset="assets/link-prettier-plugin-yaml-light-scheme@3x.png"
+                srcset=".github/assets/link-prettier-plugin-yaml-light-scheme@3x.png"
                 media="(prefers-color-scheme: light)" />
             <img
-                src="assets/link-prettier-plugin-yaml-light-scheme@3x.png"
+                src=".github/assets/link-prettier-plugin-yaml-light-scheme@3x.png"
                 width="90"
                 alt="" /></picture
     ></a>
@@ -42,13 +42,13 @@
         title="prettier-plugin-expand-json"
         ><picture
             ><source
-                srcset="assets/link-prettier-plugin-expand-json-dark-scheme@3x.png"
+                srcset=".github/assets/link-prettier-plugin-expand-json-dark-scheme@3x.png"
                 media="(prefers-color-scheme: dark)" />
             <source
-                srcset="assets/link-prettier-plugin-expand-json-light-scheme@3x.png"
+                srcset=".github/assets/link-prettier-plugin-expand-json-light-scheme@3x.png"
                 media="(prefers-color-scheme: light)" />
             <img
-                src="assets/link-prettier-plugin-expand-json-light-scheme@3x.png"
+                src=".github/assets/link-prettier-plugin-expand-json-light-scheme@3x.png"
                 width="90"
                 alt="" /></picture
     ></a>
@@ -62,13 +62,13 @@
         title="Awesome Vitest"
         ><picture
             ><source
-                srcset="assets/link-awesome-vitest-dark-scheme@3x.png"
+                srcset=".github/assets/link-awesome-vitest-dark-scheme@3x.png"
                 media="(prefers-color-scheme: dark)" />
             <source
-                srcset="assets/link-awesome-vitest-light-scheme@3x.png"
+                srcset=".github/assets/link-awesome-vitest-light-scheme@3x.png"
                 media="(prefers-color-scheme: light)" />
             <img
-                src="assets/link-awesome-vitest-light-scheme@3x.png"
+                src=".github/assets/link-awesome-vitest-light-scheme@3x.png"
                 width="100"
                 alt="" /></picture
     ></a>
