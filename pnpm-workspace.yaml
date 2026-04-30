@@ -1,6 +1,8 @@
+allowBuilds:
+  simple-git-hooks: true
+
 autoInstallPeers: false
 
-onlyBuiltDependencies:
-  - simple-git-hooks
-
 strictPeerDependencies: true
+
+trustPolicy: no-downgrade
