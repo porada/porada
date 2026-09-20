@@ -3,6 +3,8 @@ allowBuilds:
 
 autoInstallPeers: false
 
+engineStrict: true
+
 strictPeerDependencies: true
 
 trustPolicy: no-downgrade
