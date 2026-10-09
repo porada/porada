@@ -1,9 +1,13 @@
-allowBuilds:
-  simple-git-hooks: true
-
 autoInstallPeers: false
 
 engineStrict: true
+
+lockfile:
+  includeResolutionSettings: true
+
+permissions:
+  simple-git-hooks:
+    build: true
 
 strictPeerDependencies: true
 
