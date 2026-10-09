@@ -62,13 +62,13 @@
         title="Awesome Vitest"
         ><picture
             ><source
-                srcset=".github/assets/link-awesome-vitest-dark-scheme@3x.png"
+                srcset="https://github.com/porada/awesome-vitest/blob/main/.github/assets/awesome-vitest-dark-scheme-100@3x.png?raw=true"
                 media="(prefers-color-scheme: dark)" />
             <source
-                srcset=".github/assets/link-awesome-vitest-light-scheme@3x.png"
+                srcset="https://github.com/porada/awesome-vitest/blob/main/.github/assets/awesome-vitest-light-scheme-100@3x.png?raw=true"
                 media="(prefers-color-scheme: light)" />
             <img
-                src=".github/assets/link-awesome-vitest-light-scheme@3x.png"
+                src="https://github.com/porada/awesome-vitest/blob/main/.github/assets/awesome-vitest-light-scheme-100@3x.png?raw=true"
                 width="100"
                 alt="" /></picture
     ></a>
