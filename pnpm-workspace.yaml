@@ -1,7 +1,5 @@
 autoInstallPeers: false
 
-engineStrict: true
-
 lockfile:
   includeResolutionSettings: true
 

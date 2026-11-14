@@ -9,12 +9,12 @@
 	},
 	"type": "module",
 	"engines": {
-		"node": ">=24"
+		"node": ">=26"
 	},
-	"packageManager": "pnpm@12.11.0",
+	"packageManager": "pnpm@12.18.0",
 	"devDependencies": {
-		"@standard-config/prettier": "^1.22.0",
-		"prettier": "^3.9.9",
+		"@standard-config/prettier": "^1.23.0",
+		"prettier": "^3.10.1",
 		"simple-git-hooks": "^2.14.0"
 	},
 	"scripts": {
